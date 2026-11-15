@@ -62,4 +62,3 @@ python -m unittest discover -s tests -v
 [DEFLATE specification](https://www.rfc-editor.org/rfc/rfc1951) ·
 [esxDOS](https://www.esxdos.org/)
 
-Licensed under GPL-3.0-only. See `COPYING`.
