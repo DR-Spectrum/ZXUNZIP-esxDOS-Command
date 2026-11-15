@@ -58,7 +58,10 @@ cd ..
 python -m pip install z80
 python -m unittest discover -s tests -v
 ```
+## References
+
 [ZIP format specification](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT) ·
 [DEFLATE specification](https://www.rfc-editor.org/rfc/rfc1951) ·
 [esxDOS](https://www.esxdos.org/)
 
+This dot command was crafted with the help of AI (**ChatGPT**)
