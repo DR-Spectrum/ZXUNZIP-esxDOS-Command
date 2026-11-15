@@ -32,8 +32,7 @@ and CRC-32 and removes incomplete output on cancellation or error if the SD card
 allows deletion.
 
 With the normal BASIC memory layout, the command checks and borrows
-`$7000–$EFFF` for the 32 KiB DEFLATE history. It leaves RAMTOP as it was, so
-you can return to `.ZXBBS` after extracting. Keep machine code and data you
+`$7000–$EFFF` for the 32 KiB DEFLATE history. It leaves RAMTOP as it was after extracting. Keep machine code and data you
 want to retain outside the borrowed range.
 
 ## Supported files
