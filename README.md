@@ -60,10 +60,6 @@ cd ..
 python -m pip install z80
 python -m unittest discover -s tests -v
 ```
-
-The tests execute the assembled Z80 binary with simulated esxDOS file calls.
-Testing on physical Spectrum and DivTiesus hardware is pending.
-
 [ZIP format specification](https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT) ·
 [DEFLATE specification](https://www.rfc-editor.org/rfc/rfc1951) ·
 [esxDOS](https://www.esxdos.org/)
