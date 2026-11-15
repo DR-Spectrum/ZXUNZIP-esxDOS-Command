@@ -35,8 +35,7 @@ allows deletion.
 With the normal BASIC memory layout, the command checks and borrows
 `$7000–$EFFF` for the 32 KiB DEFLATE history. It leaves RAMTOP as it was, so
 you can return to `.ZXBBS` after extracting. Keep machine code and data you
-want to retain outside the borrowed range. If you used `CLEAR 28671` with
-version 0.1, restart once to restore the default BASIC memory layout.
+want to retain outside the borrowed range.
 
 ## Supported files
 
