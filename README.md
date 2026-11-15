@@ -22,8 +22,7 @@ the number of the file you want:
 ```
 
 Use `.zxunzip -l GAMES.ZIP` to list supported files without extracting. Use
-`.zxunzip -h` for on-screen help. The optional number in the usage line uses
-custom square brackets independent of the ROM character set.
+`.zxunzip -h` for on-screen help. 
 
 The output goes into the current SD directory as an 8.3 filename. For example,
 `Games/Side A/Example Game.tap` becomes `EXAMPLE_.TAP`. If that name is already
