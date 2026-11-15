@@ -13,7 +13,7 @@ directly from BASIC:
 ```
 
 Use the ZIP's esxDOS filename as it appears on the SD card. If the archive
-contains one [supported files](#Supported-files), the command extracts it immediately. If there are
+contains one [supported file](#Supported-files), the command extracts it immediately. If there are
 several, it lists the numbered paths inside the ZIP. Run the command again with
 the number of the file you want:
 
