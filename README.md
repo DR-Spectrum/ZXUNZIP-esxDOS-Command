@@ -1,6 +1,6 @@
 # ZXUNZIP
 
-`.zxunzip` is an esxDOS dot command for extracting Spectrum files from ZIP archives
+`.zxunzip` is an esxDOS dot command for extracting ZX Spectrum files from ZIP archives
 on the SD card. It searches the entire ZIP, including files inside directories.
 
 ## Install and run
