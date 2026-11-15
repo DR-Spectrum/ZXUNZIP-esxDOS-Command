@@ -21,7 +21,7 @@ the number of the file you want:
 .zxunzip GAMES.ZIP 2
 ```
 
-Use `.zxunzip -l GAMES.ZIP` to list supported files without extracting. Use
+Use `.zxunzip -l GAMES.ZIP` to list [supported files](#Supported-files) without extracting. Use
 `.zxunzip -h` for on-screen help. 
 
 The output goes into the current SD directory as an 8.3 filename. For example,
